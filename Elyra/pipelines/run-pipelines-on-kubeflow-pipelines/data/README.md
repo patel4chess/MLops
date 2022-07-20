@@ -1,1 +1,0 @@
-This directory contains a dummy data file, which is used in the tutorial pipeline.
